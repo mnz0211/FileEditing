@@ -1,0 +1,612 @@
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 1: ['\\nifs.am.hou.backup.apps.3rdparty\\t33277\\t27658\\t829\\t87894144\\t87900160\\t206835\\t1698135954\\t1569329275\\t1722416736\\t55919705678\\t./OpenWorks_acttest/EPWOW5A1/tlsadmin/bench/SEGY/class3d.sgy']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 2: ['\\nifs.am.hou.backup.apps.3rdparty\\t33277\\t27658\\t829\\t22096572\\t22102016\\t52019\\t1722414652\\t1569329278\\t1722416737\\t56274361418\\t./OpenWorks_acttest/EPWOW5A1/tlsadmin/bench/SEGY/class2d.sgy']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 3: ['\\nifs.am.hou.backup.apps.3rdparty\\t33277\\t27658\\t27658\\t34932\\t40960\\t243\\t1731925893\\t1460413132\\t1491946715\\t15644357507\\t./OpenWorks_acttest/EPWOW5A1/Linux_RHEL6/R5000.10.6/SynTool/testdata/testseis.sgy']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 4: ['\\nifs.am.hou.backup.apps.3rdparty\\t33204\\t829\\t829\\t2227968\\t2228224\\t5427\\t1544290560\\t988755932\\t1291750652\\t6435650129\\t./promax/SeisSpace/data/chevron/simple.ghost.sgy']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 5: ['\\nifs.am.hou.backup.apps.3rdparty\\t33204\\t829\\t829\\t70560\\t73728\\t435\\t1544290560\\t988755932\\t1291750652\\t6435650128\\t./promax/SeisSpace/data/chevron/chevron_test.sgy']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 6: ['\\nifs.am.hou.backup.apps.3rdparty\\t33204\\t829\\t829\\t6293520\\t6299648\\t14915\\t1544290561\\t1275656355\\t1291750651\\t6441788209\\t./promax/SeisSpace/data/protest.segy']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 7: ['\\nifs.am.hou.backup.apps.3rdparty\\t33204\\t829\\t829\\t463920\\t466944\\t1475\\t1544290569\\t997123907\\t1291750651\\t6441788207\\t./promax/SeisSpace/data/kirtime3din.segy']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 8: ['\\nifs.am.hou.backup.apps.3rdparty\\t33204\\t829\\t829\\t1119568\\t1122304\\t2755\\t1544290573\\t982622541\\t1291750648\\t6441788204\\t./promax/SeisSpace/data/3Dstacked.segy']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 9: ['\\nifs.am.hou.backup.apps.3rdparty\\t33204\\t829\\t829\\t44542512\\t44548096\\t104851\\t1544290574\\t1157132613\\t1291750652\\t6435650127\\t./promax/SeisSpace/data/manhat.segy']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 10: ['\\nifs.am.hou.backup.apps.3rdparty\\t33277\\t49412\\t49412\\t18584844\\t18587648\\t44131\\t1544250474\\t1384975646\\t1384975646\\t6468980260\\t./osp/CRS_TEST/3dMIGRATION/Small3D_depth.segy']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 11: ['\\nifs.am.hou.backup.apps.3rdparty\\t33200\\t59500\\t59655\\t79953920\\t79953920\\t187923\\t1629216787\\t1629216788\\t1662478975\\t39349680508\\t./xdigi/marty331/AutoSeismicQC/data/auger.vt']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 12: ['\\nifs.am.hou.backup.apps.3rdparty\\t33200\\t59500\\t59500\\t0\\t0\\t3\\t1632169343\\t1632169343\\t1632169343\\t39892560018\\t./xdigi/jpg/empty_data.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 13: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59500\\t12966923\\t12967936\\t30547\\t1676333101\\t1666740410\\t1666740410\\t46805559514\\t./xdigi/jpg/test_output/demo-scarborough_m1_inline_prob_m1_nFaaBTXNQ54.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 14: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59500\\t11189200\\t11190272\\t26563\\t1676333101\\t1666815632\\t1666815632\\t46754703483\\t./xdigi/jpg/test_output/April-6-Output_120_ProbabilityScanner_Fault_g8gQr5Y2TAk.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 15: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59500\\t95545970\\t95551488\\t224723\\t1676333101\\t1666815649\\t1666815649\\t46754703486\\t./xdigi/jpg/test_output/seismicCube_merged_16_120_ProbabilityScanner_Fault_g8gQr5Y2TAk.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 16: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59500\\t8971037\\t8978432\\t21171\\t1676333101\\t1666741566\\t1666741566\\t46704458225\\t./xdigi/jpg/test_output/test_fault_out_ySxkP9fpRDk_ProbabilityScanner_Layer1_ySxkP9fpRDk.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 17: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59500\\t10773049\\t10780672\\t25763\\t1676333102\\t1666743965\\t1666743965\\t46639836216\\t./xdigi/jpg/test_output/demo-scarborough_faults_crossline_prob_faults_jQA3EKFLREg.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 18: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59500\\t180093823\\t180101120\\t423667\\t1676333102\\t1666815663\\t1666815663\\t46659315792\\t./xdigi/jpg/test_output/seismicCube_merged_16_inline_prob_Fault_g8gQr5Y2TAk.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 19: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59500\\t310757449\\t310763520\\t730803\\t1676333102\\t1666738904\\t1666738905\\t46700269162\\t./xdigi/jpg/test_output/Mar-31-output_inline_prob_Fault_bz0VBV-uQSQ.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 20: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59500\\t46538165\\t46538752\\t109715\\t1676333102\\t1666741550\\t1666741550\\t46773856814\\t./xdigi/jpg/test_output/test_fault_out_inline_prob_Layer1_ySxkP9fpRDk.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 21: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59500\\t310757449\\t310763520\\t730899\\t1676333102\\t1666738884\\t1666738885\\t46556363365\\t./xdigi/jpg/test_output/Mar-31-output_crossline_prob_Fault_bz0VBV-uQSQ.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 22: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59500\\t86665881\\t86671360\\t204211\\t1676333102\\t1666815641\\t1666815641\\t46754703485\\t./xdigi/jpg/test_output/April-6-Output_inline_prob_Fault_g8gQr5Y2TAk.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 23: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59500\\t22908653\\t22913024\\t54211\\t1676333102\\t1666740391\\t1666740391\\t46631938465\\t./xdigi/jpg/test_output/demo-scarborough_faults_merge_inline_crossline_prob_faults_jQA3EKFLREg.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 24: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59500\\t15063759\\t15065088\\t35667\\t1676333102\\t1666740374\\t1666740374\\t46631938463\\t./xdigi/jpg/test_output/demo-scarborough_faults_inline_prob_faults_jQA3EKFLREg.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 25: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59500\\t611096\\t614400\\t1763\\t1676333102\\t1635407139\\t1635407139\\t40378421856\\t./xdigi/jpg/Fault_Amplitude_trimmed_Probability_ae23b676ce2e4ae189eaacb07eda447d.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 26: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59500\\t95545970\\t95551488\\t224675\\t1676333102\\t1665073280\\t1665073280\\t46214850642\\t./xdigi/jpg/test_ouput/seismicCube_merged_16_120_ProbabilityScanner_Fault_g8gQr5Y2TAk.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 27: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59500\\t180093823\\t180101120\\t423619\\t1676333102\\t1665073296\\t1665073296\\t46214850643\\t./xdigi/jpg/test_ouput/seismicCube_merged_16_inline_prob_Fault_g8gQr5Y2TAk.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 28: ['\\nifs.am.hou.backup.apps.3rdparty\\t33200\\t59500\\t59500\\t10000\\t16384\\t99\\t1632169073\\t1632169073\\t1632169073\\t38566619099\\t./xdigi/jpg/invalid_data.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 29: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59655\\t86663845\\t86671360\\t204211\\t1676333102\\t1661872503\\t1661872504\\t45752503715\\t./xdigi/jpg/output/April_6_inline_prob_Fault_g8gQr5Y2TAk.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 30: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59655\\t86665881\\t86671360\\t204259\\t1676333102\\t1659623704\\t1659623704\\t45253960153\\t./xdigi/jpg/output/pipe9demo/April-6-Output_inline_prob_Fault_g8gQr5Y2TAk.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 31: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59655\\t543606\\t548864\\t1635\\t1676333102\\t1635463042\\t1635463042\\t40473681793\\t./xdigi/jpg/output/Fault_Amplitude_trimmed_Probability_ae23b676ce2e4ae189eaacb07eda447d.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 32: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59655\\t3597887\\t3604480\\t8627\\t1676333103\\t1635407071\\t1635407071\\t40378422007\\t./xdigi/jpg/output/Fault_Amplitude_trimmed_Probability_a2e7fe38482446569c6796e2c6500cbb.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 33: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59655\\t3283934\\t3284992\\t8003\\t1676333103\\t1635460833\\t1635460833\\t40478887819\\t./xdigi/jpg/output/Fault_Amplitude_trimmed_Probability_80cb8ae91f184dcfbbf5d744a5e5b7b3.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 34: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59655\\t86665881\\t86671360\\t204211\\t1676333103\\t1661872373\\t1661872373\\t45796538326\\t./xdigi/jpg/output/April-6-Output_inline_prob_Fault_g8gQr5Y2TAk.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 35: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59655\\t89694903824\\t612368384\\t1440115\\t1676333103\\t1635786106\\t1635786106\\t40454563193\\t./xdigi/jpg/output/PBE_SE_ALL_crossline_prob_GlobalFault_v1uBoML1QKc.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 36: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59655\\t129909586\\t129916928\\t305907\\t1676333103\\t1661872694\\t1661872694\\t45752503721\\t./xdigi/jpg/output/epoch_24_test1_inline_prob_Faults_Deep_N6rnDMPESkY.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 37: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t74445\\t59655\\t11007\\t16384\\t99\\t1690380756\\t1646219334\\t1646219334\\t42621885196\\t./xdigi/testdata/otu_psdm_GeoIo_vt2vds_temp1.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 38: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59655\\t23687754\\t23691264\\t56115\\t1690360936\\t1633043323\\t1633043323\\t40049463842\\t./xdigi/testdata/Fault_test2.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 39: ['\\nifs.am.hou.backup.apps.3rdparty\\t33204\\t60710\\t60710\\t28\\t8192\\t51\\t1690381752\\t1632102191\\t1633088886\\t39840155014\\t./xdigi/testdata/dtt_test/sample.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 40: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t60710\\t60710\\t209847246\\t209854464\\t493987\\t1690380992\\t1633084780\\t1633088886\\t39965487904\\t./xdigi/testdata/dtt_test/oct1Gokul_inline_prob_GlobalFault_z28JSQ1cRhw.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 41: ['\\nifs.am.hou.backup.apps.3rdparty\\t33204\\t60710\\t60710\\t0\\t0\\t3\\t1632102075\\t1632102075\\t1633088886\\t39840155009\\t./xdigi/testdata/dtt_test/test_zero_file.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 42: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t60710\\t60710\\t1146769\\t1146880\\t2803\\t1690380985\\t1633084761\\t1633088886\\t40018354197\\t./xdigi/testdata/dtt_test/oct1Gokul_110_ProbabilityScanner_GlobalFault_z28JSQ1cRhw.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 43: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59655\\t23687754\\t23691264\\t56163\\t1719961207\\t1619120400\\t1633042830\\t36756771284\\t./xdigi/testdata/Fault_Amplitude_trimmed.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 44: ['\\nifs.am.hou.backup.apps.3rdparty\\t33200\\t60710\\t60710\\t0\\t0\\t3\\t1631886491\\t1631886491\\t1631886491\\t39879050876\\t./xdigi/testdata/file_invalid.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 45: ['\\nifs.am.hou.backup.apps.3rdparty\\t33277\\t60710\\t59655\\t33654602184\\t33654603776\\t79125619\\t1690381752\\t1633088001\\t1633104326\\t39852682891\\t./xdigi/testdata/non_func/SE_554967_BMS_2_FIN_PH2.vt']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 46: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t61050\\t59655\\t3709091\\t3710976\\t8835\\t1690276156\\t1690276159\\t1690276159\\t52218907024\\t./xdigi/testdata/1020outputs4_inline_prob_Layer1_QbVfVLfNR3A.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 47: ['\\nifs.am.hou.backup.apps.3rdparty\\t33204\\t60710\\t59655\\t23687754\\t23691264\\t56019\\t1690360570\\t1634119424\\t1634119476\\t40081536875\\t./xdigi/testdata/FA 121 2nd.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 48: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t61050\\t59655\\t57241324\\t57245696\\t134771\\t1690380756\\t1687270456\\t1687270456\\t50665724761\\t./xdigi/testdata/out_psdm_test_cma_inline_prob_Fault_c8Y9OnlVTYE.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 49: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t59500\\t59655\\t336841112\\t336846848\\t792131\\t1690379256\\t1631028257\\t1633042830\\t38554123543\\t./xdigi/testdata/otu_psdm.vt']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 50: ['\\nifs.am.hou.backup.apps.3rdparty\\t33200\\t59500\\t59655\\t1793226536\\t1793228800\\t4216387\\t1690361260\\t1638806611\\t1638806611\\t41316781637\\t./xdigi/testdata/otu_psdm.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 51: ['\\nifs.am.hou.backup.apps.3rdparty\\t33184\\t60710\\t60710\\t23687754\\t23691264\\t62259\\t1633328692\\t1632746620\\t1632746620\\t39937074927\\t./xdigi/testdata/Fault_test.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 52: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t61050\\t59655\\t3709173\\t3710976\\t8835\\t1702383459\\t1683556959\\t1683556959\\t49993941700\\t./xdigi/1020outputs4_inline_prob_Layer1_QbVfVLfNR3A.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 53: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t61323\\t59655\\t74206032\\t74211328\\t174659\\t1662548592\\t1662441386\\t1662548592\\t45883837098\\t./xdigi/waveform/WaveForm/seismic_lib/tests/data/seismicCube_merged_1_v2.vt']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 54: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t61323\\t59655\\t74206032\\t74211328\\t193971\\t1725910857\\t1662441386\\t1662441386\\t45991793287\\t./xdigi/waveform/seismic_lib/seismic_lib/tests/data/seismicCube_merged_1_v2.vt']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 55: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t61323\\t59655\\t65502171\\t65503232\\t154019\\t1690263134\\t1668079269\\t1668079298\\t46726175245\\t./xdigi/binoy/eeee_test_ZV0ydBZFQL0_Thinned_Layer1_ZV0ydBZFQL0.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 56: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t4450734\\t4456448\\t10803\\t1678889062\\t1651479625\\t1662328473\\t43831587197\\t./xdigi/tafiz_dev/Pickasso_test/fault3_inline_prob_Fault_02_nhK6NqEbQEA.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 57: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t198503130\\t198508544\\t466931\\t1678889062\\t1653393613\\t1662328473\\t44126089869\\t./xdigi/tafiz_dev/Pickasso_test/dp_seismic_output_inline_prob_Fault_JQ6bVcJXTuU.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 58: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t28\\t8192\\t51\\t1678889068\\t1649924504\\t1662328473\\t43657818093\\t./xdigi/tafiz_dev/Pickasso_dtt/sample.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 59: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t300292192\\t300294144\\t706387\\t1678889068\\t1650435656\\t1662328473\\t43619774159\\t./xdigi/tafiz_dev/Pickasso_dtt/fault_surface_in_deep_25oct_inline_prob_salt_test_15oct_z7VfenirS20.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 60: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t8504164871\\t8504172544\\t19994435\\t1678889069\\t1650435749\\t1662328473\\t43703885855\\t./xdigi/tafiz_dev/Pickasso_dtt/Salt_Test_8oct_3decimation_merge_prob_salt_6oct__B00-32pR1A.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 61: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t9922408\\t9928704\\t23539\\t1678889068\\t1650435658\\t1662328473\\t43619774163\\t./xdigi/tafiz_dev/Pickasso_dtt/fault_WF_prod_test_19oct_inline_prob_Fault_prod_test_19oct_RrGItg7SQFE.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 62: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t314465112\\t314466304\\t739235\\t1678889069\\t1650435961\\t1662328473\\t43715566401\\t./xdigi/tafiz_dev/Pickasso_dtt/Test_32GB_nov10_inline_prob_salt_test_32GB_9EYKRXeTRlw.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 63: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t60555081\\t60555264\\t142819\\t1678889069\\t1650435460\\t1662328473\\t43703885651\\t./xdigi/tafiz_dev/Pickasso_dtt/big_data_sg_oct19_15_Isosurface_Interpolate_2_Salt_test_sg_bd_oct16_eZZ2t-9YRCc.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 64: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t213670935\\t213671936\\t502371\\t1678889068\\t1650614615\\t1662328473\\t43687864904\\t./xdigi/tafiz_dev/Pickasso_dtt/dp_seismic_more_fault_135_ProbabilityScanner_Fault_Iu2AbW2gTCw.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 65: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t3001760\\t3006464\\t7459\\t1678889069\\t1650435658\\t1662328473\\t43780757506\\t./xdigi/tafiz_dev/Pickasso_dtt/fault_WF_prod_test_19oct_3_ProbabilityScanner_Fault_prod_test_19oct_RrGItg7SQFE.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 66: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t2621819250\\t2621825024\\t6163219\\t1678889068\\t1650435456\\t1662328473\\t43703885646\\t./xdigi/tafiz_dev/Pickasso_dtt/big_data_sg_oct19_15_Isosurface_Interpolate_0_Salt_test_sg_bd_oct16_eZZ2t-9YRCc.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 67: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t2621809738\\t2621816832\\t6162243\\t1678889069\\t1650435763\\t1662328473\\t43803093124\\t./xdigi/tafiz_dev/Pickasso_dtt/salttest_oct18_big_data_decimate_15_Isosurface_Interpolate_0_Salt_test_sg_bd_oct16_eZZ2t-9YRCc.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 68: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t100598854\\t100605952\\t236739\\t1678889068\\t1649834648\\t1662328473\\t43558160179\\t./xdigi/tafiz_dev/Pickasso_dtt/dp_test_session_inline_prob_Fault_Q5EKrbc3Tcg.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 69: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t297403389\\t297410560\\t699123\\t1678889068\\t1650435658\\t1662328473\\t43619774160\\t./xdigi/tafiz_dev/Pickasso_dtt/fault_surface_in_deep_25oct_merge_prob_salt_test_15oct_z7VfenirS20.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 70: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t300291334\\t300294144\\t706195\\t1678889069\\t1650435664\\t1662328473\\t43780757516\\t./xdigi/tafiz_dev/Pickasso_dtt/feet_salt_test_15oct_inline_prob_salt_test_15oct_z7VfenirS20.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 71: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t300291498\\t300294144\\t706099\\t1678889069\\t1650435956\\t1662328473\\t43715566397\\t./xdigi/tafiz_dev/Pickasso_dtt/Scaled_data_in_feet_18oct_inline_prob_salt_test_15oct_z7VfenirS20.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 72: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t18042340\\t18046976\\t42515\\t1678889069\\t1650541125\\t1662328473\\t43772633989\\t./xdigi/tafiz_dev/Pickasso_dtt/out_psdm_test_cma_103_ProbabilityScanner_Fault_c8Y9OnlVTYE.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 73: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t9506245\\t9510912\\t22723\\t1678889068\\t1650435959\\t1662328473\\t43643954731\\t./xdigi/tafiz_dev/Pickasso_dtt/Test_32GB_nov10_20_Blur_salt_test_32GB_9EYKRXeTRlw.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 74: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t297400213\\t297402368\\t699059\\t1678889068\\t1650435666\\t1662328473\\t43584498629\\t./xdigi/tafiz_dev/Pickasso_dtt/feet_salt_test_15oct_merge_prob_salt_test_15oct_z7VfenirS20.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 75: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t254134005\\t254140416\\t597523\\t1678889069\\t1650435676\\t1662328473\\t43764772539\\t./xdigi/tafiz_dev/Pickasso_dtt/Salt_Test_8oct_3decimation_119_Isosurface_Interpolate_1_salt_6oct__B00-32pR1A.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 76: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t19524487069\\t19524493312\\t45896211\\t1678889070\\t1650435845\\t1662328473\\t43803093127\\t./xdigi/tafiz_dev/Pickasso_dtt/salttest_oct18_big_data_decimate_crossline_prob_Salt_test_sg_bd_oct16_eZZ2t-9YRCc.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 77: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t98167881\\t98172928\\t230867\\t1678889068\\t1650435948\\t1662328473\\t43643954729\\t./xdigi/tafiz_dev/Pickasso_dtt/salt_test_vkp_oct1_112_Blur_GlobalFault_2zJwotBfRWQ.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 78: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t319495694\\t319496192\\t751251\\t1678889069\\t1650435661\\t1662328473\\t43764772506\\t./xdigi/tafiz_dev/Pickasso_dtt/feet_salt_test_15oct_crossline_prob_salt_test_15oct_z7VfenirS20.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 79: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t319495496\\t319496192\\t751107\\t1678889070\\t1650435954\\t1662328473\\t43803093135\\t./xdigi/tafiz_dev/Pickasso_dtt/Scaled_data_in_feet_18oct_crossline_prob_salt_test_15oct_z7VfenirS20.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 80: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t1874415\\t1875968\\t5251\\t1678889069\\t1650435667\\t1662328473\\t43703885837\\t./xdigi/tafiz_dev/Pickasso_dtt/NOV1_US_PROD_Test_7_ProbabilityScanner_Fault_nGLK95U_T3M.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 81: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t209847246\\t209854464\\t493843\\t1678889069\\t1649914766\\t1662328473\\t43768154289\\t./xdigi/tafiz_dev/Pickasso_dtt/oct1Gokul_inline_prob_GlobalFault_z28JSQ1cRhw.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 82: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t9645445105\\t9645449216\\t22670659\\t1678889067\\t1646918465\\t1662328473\\t42730933328\\t./xdigi/tafiz_dev/Pickasso_dtt/seismicCube_merged_16.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 83: ['\\nifs.am.hou.backup.apps.3rdparty\\t33204\\t80213\\t59655\\t73721232\\t73728000\\t173859\\t1678889069\\t1650182415\\t1662328503\\t43785195874\\t./xdigi/tafiz_dev/Pickasso_dtt/oct1Gokul_inline_prob_GlobalFault_z28JSQ1cRhw_vds2vt.vt']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 84: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t43666269\\t43671552\\t103091\\t1678889069\\t1650435952\\t1662328503\\t43715566396\\t./xdigi/tafiz_dev/Pickasso_dtt/Scaled_data_in_feet_18oct_130_Isosurface_Interpolate_0_salt_test_15oct_z7VfenirS20.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 85: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t16722896718\\t16722903040\\t39309491\\t1678889069\\t1650435649\\t1662328503\\t43764772433\\t./xdigi/tafiz_dev/Pickasso_dtt/big_data_sg_oct19_merge_prob_Salt_test_sg_bd_oct16_eZZ2t-9YRCc.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 86: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t0\\t0\\t3\\t1649924483\\t1649924483\\t1662328503\\t43747450926\\t./xdigi/tafiz_dev/Pickasso_dtt/test_zero_file.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 87: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t675134139\\t675135488\\t1587507\\t1678889068\\t1650614659\\t1662328503\\t43644536625\\t./xdigi/tafiz_dev/Pickasso_dtt/dp_seismic_more_fault_inline_prob_Fault_Iu2AbW2gTCw.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 88: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t310757449\\t310763520\\t731043\\t1678889069\\t1650265248\\t1662328503\\t43706243927\\t./xdigi/tafiz_dev/Pickasso_dtt/Mar-31-output_inline_prob_Fault_bz0VBV-uQSQ.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 89: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t57241324\\t57245696\\t134819\\t1678889070\\t1651044628\\t1662328503\\t43852848488\\t./xdigi/tafiz_dev/Pickasso_dtt/out_psdm_test_cma_inline_prob_Fault_c8Y9OnlVTYE.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 90: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t198503130\\t198508544\\t466883\\t1678889070\\t1651491544\\t1662328503\\t43841609173\\t./xdigi/tafiz_dev/Pickasso_dtt/dp_seismic_output_inline_prob_Fault_JQ6bVcJXTuU.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 91: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t12883969\\t12886016\\t30435\\t1678889068\\t1650435444\\t1662328503\\t43703885645\\t./xdigi/tafiz_dev/Pickasso_dtt/big_data_sg_oct19_15_Blur_Salt_test_sg_bd_oct16_eZZ2t-9YRCc.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 92: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t119577934\\t119578624\\t281523\\t1678889068\\t1649842499\\t1662328503\\t43628586340\\t./xdigi/tafiz_dev/Pickasso_dtt/seismicCube_merged_16_inline_prob_Fault_W2rlooi7QWk.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 93: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t19524529391\\t19524534272\\t45886371\\t1678889068\\t1650435524\\t1662328503\\t43584498522\\t./xdigi/tafiz_dev/Pickasso_dtt/big_data_sg_oct19_crossline_prob_Salt_test_sg_bd_oct16_eZZ2t-9YRCc.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 94: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t16722903576\\t16722911232\\t39315315\\t1678889068\\t1650435947\\t1662328503\\t43643954724\\t./xdigi/tafiz_dev/Pickasso_dtt/salttest_oct18_big_data_decimate_merge_prob_Salt_test_sg_bd_oct16_eZZ2t-9YRCc.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 95: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t43666283\\t43671552\\t103139\\t1678889069\\t1650435659\\t1662328503\\t43764772505\\t./xdigi/tafiz_dev/Pickasso_dtt/feet_salt_test_15oct_130_Isosurface_Interpolate_0_salt_test_15oct_z7VfenirS20.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 96: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t18631557302\\t18631565312\\t43795539\\t1678889068\\t1650435594\\t1662328503\\t43584498523\\t./xdigi/tafiz_dev/Pickasso_dtt/big_data_sg_oct19_inline_prob_Salt_test_sg_bd_oct16_eZZ2t-9YRCc.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 97: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t6231457\\t6234112\\t14787\\t1678889069\\t1650435667\\t1662328503\\t43703885838\\t./xdigi/tafiz_dev/Pickasso_dtt/NOV1_US_PROD_Test_inline_prob_Fault_nGLK95U_T3M.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 98: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t12883481\\t12886016\\t30435\\t1678889069\\t1650435750\\t1662328503\\t43764772579\\t./xdigi/tafiz_dev/Pickasso_dtt/salttest_oct18_big_data_decimate_15_Blur_Salt_test_sg_bd_oct16_eZZ2t-9YRCc.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 99: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t42523697\\t42524672\\t100291\\t1678889068\\t1650435676\\t1662328503\\t43584498660\\t./xdigi/tafiz_dev/Pickasso_dtt/Salt_Test_8oct_3decimation_119_Isosurface_Interpolate_2_salt_6oct__B00-32pR1A.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 100: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t400386655\\t400392192\\t941859\\t1678889069\\t1650435766\\t1662328503\\t43715566384\\t./xdigi/tafiz_dev/Pickasso_dtt/salttest_oct18_big_data_decimate_15_Isosurface_Interpolate_1_Salt_test_sg_bd_oct16_eZZ2t-9YRCc.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 101: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t6949139\\t6955008\\t16707\\t1678889068\\t1650435659\\t1662328503\\t43619774164\\t./xdigi/tafiz_dev/Pickasso_dtt/feet_salt_test_15oct_130_Blur_salt_test_15oct_z7VfenirS20.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 102: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t1146769\\t1146880\\t2803\\t1678889068\\t1649914394\\t1662328503\\t43637718554\\t./xdigi/tafiz_dev/Pickasso_dtt/oct1Gokul_110_ProbabilityScanner_GlobalFault_z28JSQ1cRhw.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 103: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t8173129836\\t8173133824\\t19212243\\t1678889069\\t1650435717\\t1662328503\\t43703885842\\t./xdigi/tafiz_dev/Pickasso_dtt/Salt_Test_8oct_3decimation_crossline_prob_salt_6oct__B00-32pR1A.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 104: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t52177695\\t52183040\\t122835\\t1678889069\\t1650435959\\t1662328503\\t43715566400\\t./xdigi/tafiz_dev/Pickasso_dtt/Test_32GB_nov10_20_Isosurface_Interpolate_0_salt_test_32GB_9EYKRXeTRlw.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 105: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t400389189\\t400392192\\t941379\\t1678889068\\t1650435459\\t1662328503\\t43703885650\\t./xdigi/tafiz_dev/Pickasso_dtt/big_data_sg_oct19_15_Isosurface_Interpolate_1_Salt_test_sg_bd_oct16_eZZ2t-9YRCc.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 106: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t6949125\\t6955008\\t16707\\t1678889069\\t1650435951\\t1662328503\\t43715566395\\t./xdigi/tafiz_dev/Pickasso_dtt/Scaled_data_in_feet_18oct_130_Blur_salt_test_15oct_z7VfenirS20.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 107: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t10062217\\t10067968\\t23811\\t1678889069\\t1650435667\\t1662328503\\t43703885839\\t./xdigi/tafiz_dev/Pickasso_dtt/Salt_Test_8oct_3decimation_119_Blur_salt_6oct__B00-32pR1A.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 108: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t18631586230\\t18631589888\\t43801923\\t1678889069\\t1650435900\\t1662328503\\t43764772582\\t./xdigi/tafiz_dev/Pickasso_dtt/salttest_oct18_big_data_decimate_inline_prob_Salt_test_sg_bd_oct16_eZZ2t-9YRCc.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 109: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t1360813\\t1368064\\t3459\\t1678889069\\t1650435667\\t1662328503\\t43764772536\\t./xdigi/tafiz_dev/Pickasso_dtt/NOV1_PROD_SG_TEST1_4_ProbabilityScanner_Fault_4y7v1368Qpg.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 110: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t297400183\\t297402368\\t699155\\t1678889069\\t1650435958\\t1662328503\\t43715566398\\t./xdigi/tafiz_dev/Pickasso_dtt/Scaled_data_in_feet_18oct_merge_prob_salt_test_15oct_z7VfenirS20.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 111: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t319497058\\t319504384\\t751219\\t1678889069\\t1650435654\\t1662328503\\t43780757505\\t./xdigi/tafiz_dev/Pickasso_dtt/fault_surface_in_deep_25oct_crossline_prob_salt_test_15oct_z7VfenirS20.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 112: ['\\nifs.am.hou.backup.apps.3rdparty\\t33204\\t80213\\t59655\\t73721232\\t73728000\\t173715\\t1678889068\\t1650289124\\t1662328503\\t43642384833\\t./xdigi/tafiz_dev/Pickasso_dtt/Mar-31-output_112_ProbabilityScanner_Fault_bz0VBV-uQSQ_vds2vt.vt']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 113: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t1488037166\\t1488044032\\t3497859\\t1678889069\\t1650435673\\t1662328503\\t43703885840\\t./xdigi/tafiz_dev/Pickasso_dtt/Salt_Test_8oct_3decimation_119_Isosurface_Interpolate_0_salt_6oct__B00-32pR1A.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 114: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t371073972\\t371081216\\t872723\\t1678889068\\t1650435951\\t1662328503\\t43643954730\\t./xdigi/tafiz_dev/Pickasso_dtt/salt_test_vkp_oct1_112_Isosurface_Interpolate_0_GlobalFault_2zJwotBfRWQ.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 115: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t97594748\\t97599488\\t229699\\t1678889070\\t1650876800\\t1662328503\\t43900670352\\t./xdigi/tafiz_dev/Pickasso_dtt/dp_seismic_output_131_ProbabilityScanner_Fault_JQ6bVcJXTuU.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 116: ['\\nifs.am.hou.backup.apps.3rdparty\\t33188\\t80213\\t59655\\t130546563\\t130547712\\t307139\\t1678889070\\t1650347149\\t1662328503\\t43834345752\\t./xdigi/tafiz_dev/Pickasso_dtt/Mar-31-output_112_ProbabilityScanner_Fault_bz0VBV-uQSQ.vds']
+Error: ('The SQL contains 12 parameter markers, but 1 parameters were supplied', 'HY000')
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 1: file_scan\tperm\tuid\tgid\tsize\tsize_on_disk\tblocks\tatime\tmtime\tctime\tinode\tfile_name\nifs.am.hou.backup.apps.3rdparty\t33277\t829\t829\t24518160\t24518656\t57859\t1738539320\t1520969736\t1524751794\t20442155334\t./CoViz/coviz10/toolkit/cv_3grd2segy/output.sgy
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 2: \nifs.am.hou.backup.apps.3rdparty\t33277\t27658\t829\t87894144\t87900160\t206835\t1698135954\t1569329275\t1722416736\t55919705678\t./OpenWorks_acttest/EPWOW5A1/tlsadmin/bench/SEGY/class3d.sgy
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 3: \nifs.am.hou.backup.apps.3rdparty\t33277\t27658\t829\t22096572\t22102016\t52019\t1722414652\t1569329278\t1722416737\t56274361418\t./OpenWorks_acttest/EPWOW5A1/tlsadmin/bench/SEGY/class2d.sgy
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 4: \nifs.am.hou.backup.apps.3rdparty\t33277\t27658\t27658\t34932\t40960\t243\t1731925893\t1460413132\t1491946715\t15644357507\t./OpenWorks_acttest/EPWOW5A1/Linux_RHEL6/R5000.10.6/SynTool/testdata/testseis.sgy
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 5: \nifs.am.hou.backup.apps.3rdparty\t33204\t829\t829\t2227968\t2228224\t5427\t1544290560\t988755932\t1291750652\t6435650129\t./promax/SeisSpace/data/chevron/simple.ghost.sgy
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 6: \nifs.am.hou.backup.apps.3rdparty\t33204\t829\t829\t70560\t73728\t435\t1544290560\t988755932\t1291750652\t6435650128\t./promax/SeisSpace/data/chevron/chevron_test.sgy
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 7: \nifs.am.hou.backup.apps.3rdparty\t33204\t829\t829\t6293520\t6299648\t14915\t1544290561\t1275656355\t1291750651\t6441788209\t./promax/SeisSpace/data/protest.segy
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 8: \nifs.am.hou.backup.apps.3rdparty\t33204\t829\t829\t463920\t466944\t1475\t1544290569\t997123907\t1291750651\t6441788207\t./promax/SeisSpace/data/kirtime3din.segy
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 9: \nifs.am.hou.backup.apps.3rdparty\t33204\t829\t829\t1119568\t1122304\t2755\t1544290573\t982622541\t1291750648\t6441788204\t./promax/SeisSpace/data/3Dstacked.segy
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 10: \nifs.am.hou.backup.apps.3rdparty\t33204\t829\t829\t44542512\t44548096\t104851\t1544290574\t1157132613\t1291750652\t6435650127\t./promax/SeisSpace/data/manhat.segy
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 11: \nifs.am.hou.backup.apps.3rdparty\t33277\t49412\t49412\t18584844\t18587648\t44131\t1544250474\t1384975646\t1384975646\t6468980260\t./osp/CRS_TEST/3dMIGRATION/Small3D_depth.segy
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 12: \nifs.am.hou.backup.apps.3rdparty\t33200\t59500\t59655\t79953920\t79953920\t187923\t1629216787\t1629216788\t1662478975\t39349680508\t./xdigi/marty331/AutoSeismicQC/data/auger.vt
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 13: \nifs.am.hou.backup.apps.3rdparty\t33200\t59500\t59500\t0\t0\t3\t1632169343\t1632169343\t1632169343\t39892560018\t./xdigi/jpg/empty_data.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 14: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59500\t12966923\t12967936\t30547\t1676333101\t1666740410\t1666740410\t46805559514\t./xdigi/jpg/test_output/demo-scarborough_m1_inline_prob_m1_nFaaBTXNQ54.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 15: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59500\t11189200\t11190272\t26563\t1676333101\t1666815632\t1666815632\t46754703483\t./xdigi/jpg/test_output/April-6-Output_120_ProbabilityScanner_Fault_g8gQr5Y2TAk.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 16: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59500\t95545970\t95551488\t224723\t1676333101\t1666815649\t1666815649\t46754703486\t./xdigi/jpg/test_output/seismicCube_merged_16_120_ProbabilityScanner_Fault_g8gQr5Y2TAk.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 17: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59500\t8971037\t8978432\t21171\t1676333101\t1666741566\t1666741566\t46704458225\t./xdigi/jpg/test_output/test_fault_out_ySxkP9fpRDk_ProbabilityScanner_Layer1_ySxkP9fpRDk.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 18: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59500\t10773049\t10780672\t25763\t1676333102\t1666743965\t1666743965\t46639836216\t./xdigi/jpg/test_output/demo-scarborough_faults_crossline_prob_faults_jQA3EKFLREg.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 19: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59500\t180093823\t180101120\t423667\t1676333102\t1666815663\t1666815663\t46659315792\t./xdigi/jpg/test_output/seismicCube_merged_16_inline_prob_Fault_g8gQr5Y2TAk.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 20: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59500\t310757449\t310763520\t730803\t1676333102\t1666738904\t1666738905\t46700269162\t./xdigi/jpg/test_output/Mar-31-output_inline_prob_Fault_bz0VBV-uQSQ.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 21: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59500\t46538165\t46538752\t109715\t1676333102\t1666741550\t1666741550\t46773856814\t./xdigi/jpg/test_output/test_fault_out_inline_prob_Layer1_ySxkP9fpRDk.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 22: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59500\t310757449\t310763520\t730899\t1676333102\t1666738884\t1666738885\t46556363365\t./xdigi/jpg/test_output/Mar-31-output_crossline_prob_Fault_bz0VBV-uQSQ.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 23: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59500\t86665881\t86671360\t204211\t1676333102\t1666815641\t1666815641\t46754703485\t./xdigi/jpg/test_output/April-6-Output_inline_prob_Fault_g8gQr5Y2TAk.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 24: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59500\t22908653\t22913024\t54211\t1676333102\t1666740391\t1666740391\t46631938465\t./xdigi/jpg/test_output/demo-scarborough_faults_merge_inline_crossline_prob_faults_jQA3EKFLREg.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 25: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59500\t15063759\t15065088\t35667\t1676333102\t1666740374\t1666740374\t46631938463\t./xdigi/jpg/test_output/demo-scarborough_faults_inline_prob_faults_jQA3EKFLREg.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 26: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59500\t611096\t614400\t1763\t1676333102\t1635407139\t1635407139\t40378421856\t./xdigi/jpg/Fault_Amplitude_trimmed_Probability_ae23b676ce2e4ae189eaacb07eda447d.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 27: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59500\t95545970\t95551488\t224675\t1676333102\t1665073280\t1665073280\t46214850642\t./xdigi/jpg/test_ouput/seismicCube_merged_16_120_ProbabilityScanner_Fault_g8gQr5Y2TAk.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 28: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59500\t180093823\t180101120\t423619\t1676333102\t1665073296\t1665073296\t46214850643\t./xdigi/jpg/test_ouput/seismicCube_merged_16_inline_prob_Fault_g8gQr5Y2TAk.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 29: \nifs.am.hou.backup.apps.3rdparty\t33200\t59500\t59500\t10000\t16384\t99\t1632169073\t1632169073\t1632169073\t38566619099\t./xdigi/jpg/invalid_data.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 30: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59655\t86663845\t86671360\t204211\t1676333102\t1661872503\t1661872504\t45752503715\t./xdigi/jpg/output/April_6_inline_prob_Fault_g8gQr5Y2TAk.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 31: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59655\t86665881\t86671360\t204259\t1676333102\t1659623704\t1659623704\t45253960153\t./xdigi/jpg/output/pipe9demo/April-6-Output_inline_prob_Fault_g8gQr5Y2TAk.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 32: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59655\t543606\t548864\t1635\t1676333102\t1635463042\t1635463042\t40473681793\t./xdigi/jpg/output/Fault_Amplitude_trimmed_Probability_ae23b676ce2e4ae189eaacb07eda447d.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 33: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59655\t3597887\t3604480\t8627\t1676333103\t1635407071\t1635407071\t40378422007\t./xdigi/jpg/output/Fault_Amplitude_trimmed_Probability_a2e7fe38482446569c6796e2c6500cbb.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 34: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59655\t3283934\t3284992\t8003\t1676333103\t1635460833\t1635460833\t40478887819\t./xdigi/jpg/output/Fault_Amplitude_trimmed_Probability_80cb8ae91f184dcfbbf5d744a5e5b7b3.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 35: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59655\t86665881\t86671360\t204211\t1676333103\t1661872373\t1661872373\t45796538326\t./xdigi/jpg/output/April-6-Output_inline_prob_Fault_g8gQr5Y2TAk.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 36: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59655\t89694903824\t612368384\t1440115\t1676333103\t1635786106\t1635786106\t40454563193\t./xdigi/jpg/output/PBE_SE_ALL_crossline_prob_GlobalFault_v1uBoML1QKc.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
+File: \\americas.shell.com\tcs\hou\ua.sepco\data.scratch\50_scratch\MNZ\SQL_Listing\HOU_Volumes_Info.dat
+Line 37: \nifs.am.hou.backup.apps.3rdparty\t33188\t59500\t59655\t129909586\t129916928\t305907\t1676333103\t1661872694\t1661872694\t45752503721\t./xdigi/jpg/output/epoch_24_test1_inline_prob_Faults_Deep_N6rnDMPESkY.vds
+Error: [Errno 13] Permission denied: '\\\\americas.shell.com\\tcs\\hou\\ua.sepco\\data.scratch\\50_scratch\\MNZ\\SQL_Listing\\AFS_Volumes_error_log.txt'
+
